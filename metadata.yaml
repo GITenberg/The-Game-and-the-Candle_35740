@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26005'
     url: http://www.gutenberg.org/2009/agents/26005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35740#The-Game-and-the-Candle
 gutenberg_issued: '2011-04-01'
 gutenberg_type: Text
 identifiers:
